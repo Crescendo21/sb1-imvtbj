@@ -1,0 +1,7 @@
+[
+  { "id": 1, "name": "Bored Ape Yacht Club", "image": "https://example.com/bayc.png" },
+  { "id": 2, "name": "CryptoPunks", "image": "https://example.com/cryptopunks.png" },
+  { "id": 3, "name": "Azuki", "image": "https://example.com/azuki.png" },
+  { "id": 4, "name": "Doodles", "image": "https://example.com/doodles.png" },
+  { "id": 5, "name": "Bitcoin Ordinals", "image": "https://example.com/ordinals.png" }
+]

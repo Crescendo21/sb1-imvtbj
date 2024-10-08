@@ -1,0 +1,7 @@
+[
+  { "id": 1, "name": "Dogecoin", "image": "https://example.com/dogecoin.png" },
+  { "id": 2, "name": "Shiba Inu", "image": "https://example.com/shiba.png" },
+  { "id": 3, "name": "SafeMoon", "image": "https://example.com/safemoon.png" },
+  { "id": 4, "name": "Pepe", "image": "https://example.com/pepe.png" },
+  { "id": 5, "name": "Floki Inu", "image": "https://example.com/floki.png" }
+]

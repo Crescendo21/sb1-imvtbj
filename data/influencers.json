@@ -1,0 +1,7 @@
+[
+  { "id": 1, "name": "Vitalik Buterin", "image": "https://example.com/vitalik.png" },
+  { "id": 2, "name": "CZ Binance", "image": "https://example.com/cz.png" },
+  { "id": 3, "name": "Elon Musk", "image": "https://example.com/elon.png" },
+  { "id": 4, "name": "Michael Saylor", "image": "https://example.com/saylor.png" },
+  { "id": 5, "name": "Andreas Antonopoulos", "image": "https://example.com/andreas.png" }
+]
